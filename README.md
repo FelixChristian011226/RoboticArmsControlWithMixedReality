@@ -1,5 +1,5 @@
 # Introduction
-This is a SRTP project in ZJU. A research on remote control technology based on mixed reality.
+This is a SRTP project in ZJU. A research on remote control technology based on mixed reality.  
 You can drag the red ball. Then the UR5 robotic arm will follow your movement, with the green ball located at the UR5 head following the red ball precisely.
 
 # Results
